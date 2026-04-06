@@ -8,7 +8,7 @@
             int xDays = 3;
             char letterOfTheDay = 'G';
             bool nah = false;
-            double dub64 = 9001;
+            double dub64 = 9001.5;
             decimal dec64 = 1.7875m;
             
             Console.WriteLine($"{initialGreeting} It has been {xDays} since your last visit.\nThe letter of the day is {letterOfTheDay}\n" +
