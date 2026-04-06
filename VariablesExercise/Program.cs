@@ -9,11 +9,11 @@
             char letterOfTheDay = 'G';
             bool nah = false;
             double dub64 = 9001;
-            decimal dec64 = 1000000m;
+            decimal dec64 = 1.7875m;
             
             Console.WriteLine($"{initialGreeting} It has been {xDays} since your last visit.\nThe letter of the day is {letterOfTheDay}\n" +
                               $"You tell your magic 8-ball that the outlook for the day is good. It responds with \"Your assesment is {nah}.\"\n" +
-                              $"Your power level today is {dub64} and you have a ransom demand of {dec64} dollars.\n");
+                              $"Your power level today is {dub64} and you have a ransom demand of {dec64} million dollars.\n");
         }
     }
 }
